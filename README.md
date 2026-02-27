@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Mary Ann 👋
 
-<!--
-**mssalvadk/mssalvadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mainframe Software Engineer | Banking Systems | Modernization & Cloud Transition | Exploring Agentic AI 
 
-Here are some ideas to get you started:
+## 🔹 About Me
+Result-oriented IT Specialist with decades of experience in COBOL, DB2, CICS, MQ, and financial systems.  
+Currently expanding into cloud integration, automation, and modernization strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Core Technical Skills
+- COBOL
+- DB2 | MariaDB Performance Tuning
+- Batch Processing (OPC)
+- MQ | CICS
+- Python Automation
+- REST API Integration
+- Mainframe to Cloud Architecture (Concept & Lab Projects)
+
+## 🔹 Featured Projects
+- 🔍 Data Validation Toolkit (MD5 / SHA256)
+- 🏦 Banking Batch Simulation Engine
+- ☁️ Mainframe-to-Cloud Migration Lab
+- 🧪 Python QA Automation Framework
+
+## 🔹 Currently Learning
+- AWS Modernization Patterns
+- CI/CD Automation
+- AI Integration for Structured Systems
+
+## 📫 Let’s Connect
+LinkedIn: maryannsalva
